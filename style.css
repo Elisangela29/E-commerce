@@ -60,12 +60,12 @@ body{
     position: relative;
 }
 
-.container .product .color .pink{
-    background: #e01167;
+.container .product .color .green{
+    background: #ace057;
 }
 
-.container .product .color .white{
-    background: #dde4e6;
+.container .product .color .black{
+    background: #14181a;
 }
 
 .container .product .color .red{
